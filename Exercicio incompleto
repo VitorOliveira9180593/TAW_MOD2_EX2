@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="description" content="TAW, Módulo 2, Ecercício 2">
+    <meta name="keywords" content="HTML, TAW">
+    <meta name="author" content="Vitor Oliveira">
+    <title>TAW-MOD2-EX2</title>
+</head>
+<body>
+    <a href="http://www.esmad.ipp.pt">
+        <img src="https://via.placeholder.com/350x150" title="Placeholder 350x150" alt="Placeholder 350x150"/>
+    </a>
+    
+    <ul>
+        <li> 1º item
+        <li> 2º item
+        <li> 3º item
+    </ul>
+    <ol>
+        <li> 1º item
+        <li> 2º item
+        <li> 3º item
+    </ol>
+    <dl>
+        <dt>Primeiro</dt>
+        <dd>1º</dd>
+        <dt>Segundo</dt>
+        <dd>2º</dd>
+        <dt>Terceiro</dt>
+        <dd>3º</dd>
+    </dl>
+    <table>
+        <tr>
+            <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum posuere ultrices neque vel lobortis. Cras vitae ligula velit. In hac habitasse platea dictumst. Sed dignissim finibus sem, at pretium enim. Mauris ornare lorem ut dictum rutrum. Integer magna velit, consectetur eget felis eget, ornare lobortis mauris. Nunc sodales tortor nec molestie ultrices.</td>
+            <td>Nulla dignissim orci non tincidunt varius. Ut sodales lectus tellus, vitae scelerisque augue venenatis in. Curabitur eleifend vehicula volutpat. Aliquam sed dui eu ipsum volutpat semper. Donec ultrices varius dolor, a auctor eros rutrum eu. Morbi ac odio nec ex suscipit accumsan ut eget tellus. Praesent mi nisl, convallis et erat eget, laoreet mattis nisl.</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            
+        </tr>
+
+    </table>
+</body>
+</html>
